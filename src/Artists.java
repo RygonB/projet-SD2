@@ -7,4 +7,8 @@ public class Artists {
         this.nom = nom;
         this.info = info;
     }
+
+    public int getId() {
+        return id;
+    }
 }
